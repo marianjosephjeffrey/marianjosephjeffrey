@@ -77,7 +77,6 @@
 
 | Module                       | Accuracy | Completion | Points       | Highlights                |
 |-----------------------------|----------|------------|--------------|---------------------------|
-| **Survey**                  | 🟢 **100%** | 🟢 **100%**   | 🟢 **100 / 100** | ✅ Perfect Score!             |
 | **Open Source Intelligence** | 69.6%   | 🟡 **88.9%**   | 🟢 **260 / 310** | 🔍 Strong OSINT performance |
 | **Network Traffic Analysis** | 62.5%   | 🟡 **83.3%**   | 190 / 300    | 📶 Solid network skills     |
 | **Password Cracking**       | 🟢 **82.4%** | 73.7%      | 🟢 **250 / 335** | 🔐 Cracked it!              |
