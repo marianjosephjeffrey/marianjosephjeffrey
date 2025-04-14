@@ -72,3 +72,19 @@
 ---
 
 ⭐ **Let's build a more secure digital world together!** 🚀  
+
+### 🛡️ NCL Spring 2025 CTF - Score Summary
+
+| Module                     | Accuracy | Completion | Points     |
+|---------------------------|----------|------------|------------|
+| **Open Source Intelligence** | 69.6%   | **88.9%**   | **260 / 310** |
+| **Network Traffic Analysis** | 62.5%   | **83.3%**   | 190 / 300  |
+| **Password Cracking**     | **82.4%** | 73.7%      | **250 / 335** |
+| Forensics                 | 71.4%    | 71.4%      | 215 / 305  |
+| Log Analysis              | 55%      | 64.7%      | 180 / 300  |
+| Scanning & Reconnaissance| **91.7%** | 64.7%      | 200 / 300  |
+| Enumeration & Exploitation| 57.1%   | 42.1%      | 100 / 365  |
+| Cryptography              | 66.7%    | 31.6%      | 100 / 385  |
+| Web App Exploitation      | 50%      | 22.2%      | 100 / 300  |
+
+🏁 **Ranked 937 out of 8,542 (Top ~11%)**
