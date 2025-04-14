@@ -66,8 +66,8 @@
 | Log Analysis                  | 55%       | 64.7%      | 180 / 300    | Decent log hunting        |
 | Scanning & Reconnaissance     | **91.7%** | 64.7%      | 200 / 300    | High accuracy             |
 | Enumeration & Exploitation    | 57.1%     | 42.1%      | 100 / 365    | Needs improvement         |
-| Cryptography                  | 66.7%     | 31.6%      | 100 / 385    | Room to grow              |
-| Web App Exploitation          | 50%       | 22.2%      | 100 / 300    | Tough category            |
+| Cryptography                  | 66.7%     | 31.6%      | 100 / 385    | Tough challenges              |
+| Web App Exploitation          | 50%       | 22.2%      | 100 / 300    | Room to grow           |
 
 🏁 **Ranked: 937 out of 8,542** (~Top 11%)
 
