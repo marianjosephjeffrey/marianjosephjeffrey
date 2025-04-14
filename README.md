@@ -54,25 +54,7 @@
 
 ---
 
-## 🏆 Achievements  
-
-- 🏅 **TryHackMe Top 1%** → [Profile](https://tryhackme.com/p/mjcube)  
-- 🎯 **WiCyS 2023 CTF** → Top 1.7% (40th out of 2300)  
-- 🚀 **NCL Fall 2024 CTF** → Top 12% (1038 out of 8484)  
-
----
-
-## 📬 Connect with Me  
-
-💼 **LinkedIn:** [Marian Joseph Jeffrey John](https://www.linkedin.com/in/marianjohn/)  
-🌐 **Portfolio:** [Visit Here](https://marianjosephjeffrey.wordpress.com/)  
-🛡 **TryHackMe:** [mjcube](https://tryhackme.com/p/mjcube)  
-📩 **Email:** mjcube1999@gmail.com  
-
----
-
-⭐ **Let's build a more secure digital world together!** 🚀  
-
+## 🏆 Latest Achievements  
 ### 🛡️ NCL Spring 2025 CTF - Score Summary
 
 | Module                       | Accuracy  | Completion | Points       | Highlights                |
@@ -90,3 +72,24 @@
 🏁 **Ranked: 937 out of 8,542** (~Top 11%)
 
 🔍 **Takeaway:** Consistently strong performance in OSINT, password cracking, and forensics. Always aiming higher for the next CTF!
+
+---
+
+## 🏆 Achievements  
+
+- 🏅 **TryHackMe Top 1%** → [Profile](https://tryhackme.com/p/mjcube)  
+- 🎯 **WiCyS 2023 CTF** → Top 1.7% (40th out of 2300)  
+- 🚀 **NCL Fall 2024 CTF** → Top 12% (1038 out of 8484)  
+
+--- 
+
+## 📬 Connect with Me  
+
+💼 **LinkedIn:** [Marian Joseph Jeffrey John](https://www.linkedin.com/in/marianjohn/)  
+🌐 **Portfolio:** [Visit Here](https://marianjosephjeffrey.wordpress.com/)  
+🛡 **TryHackMe:** [mjcube](https://tryhackme.com/p/mjcube)  
+📩 **Email:** mjcube1999@gmail.com  
+
+---
+
+⭐ **Let's build a more secure digital world together!** 🚀 
