@@ -75,18 +75,19 @@
 
 ### 🛡️ NCL Spring 2025 CTF - Score Summary
 
-| Module                       | Accuracy | Completion | Points       | Highlights                |
-|-----------------------------|----------|------------|--------------|---------------------------|
-| **Open Source Intelligence** | 69.6%   | 🟡 **88.9%**   | 🟢 **260 / 310** | 🔍 Strong OSINT performance |
-| **Network Traffic Analysis** | 62.5%   | 🟡 **83.3%**   | 190 / 300    | 📶 Solid network skills     |
-| **Password Cracking**       | 🟢 **82.4%** | 73.7%      | 🟢 **250 / 335** | 🔐 Cracked it!              |
-| Forensics                   | 71.4%    | 71.4%      | 215 / 305    | 🧪 Good forensic work       |
-| Log Analysis                | 55%      | 64.7%      | 180 / 300    | 🗂️ Decent log hunting       |
-| **Scanning & Reconnaissance**| 🟢 **91.7%** | 64.7%      | 200 / 300    | 📡 High accuracy            |
-| Enumeration & Exploitation | 57.1%    | 42.1%      | 100 / 365    | ⚙️ Needs improvement        |
-| Cryptography                | 66.7%    | 🔴 31.6%      | 100 / 385    | 🕸️ Tough challenges            |
-| Web App Exploitation        | 50%      | 🔴 22.2%      | 100 / 300    | 🧩 Room to grow          |
+| Module                       | Accuracy  | Completion     | Points       | Highlights                |
+|-----------------------------|-----------|----------------|--------------|---------------------------|
+| **Survey**                  | **100%**   | **<span style="color:green">100%</span>**   | **100 / 100** | Perfect score             |
+| **Open Source Intelligence** | 69.6%     | **<span style="color:green">88.9%</span>**   | **260 / 310** | Strong OSINT performance  |
+| **Network Traffic Analysis** | 62.5%     | **<span style="color:green">83.3%</span>**   | 190 / 300    | Solid network skills      |
+| **Password Cracking**       | **82.4%**  | **<span style="color:green">73.7%</span>**   | **250 / 335** | Cracked it!               |
+| **Forensics**               | **71.4%**  | **<span style="color:green">71.4%</span>**   | 215 / 305    | Good forensic work        |
+| Log Analysis                | 55%       | 64.7%          | 180 / 300    | Decent log hunting        |
+| Scanning & Reconnaissance  | **91.7%**  | 64.7%          | 200 / 300    | Very high accuracy        |
+| Enumeration & Exploitation | 57.1%     | 42.1%          | 100 / 365    | Needs improvement         |
+| Cryptography               | 66.7%     | 31.6%          | 100 / 385    | Room to grow              |
+| Web App Exploitation        | 50%       | 22.2%          | 100 / 300    | Tough category            |
 
 🏁 **Final Rank: 937 out of 8,542** (~Top 11%)
 
-🔥 **Takeaway:** Strong in OSINT, password cracking, and scanning—with high accuracy in key areas. Looking forward to sharpening web and crypto skills next round!
+📌 **Takeaway:** Strong performance in key areas like OSINT, password cracking, and forensics. Looking forward to pushing even further next time!
