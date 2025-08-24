@@ -1,7 +1,7 @@
 <!-- Header with Name and Tagline -->
 <h1 align="center">👋 Hey there, I'm Marian Joseph Jeffrey John! 🚀</h1>
 
-<h3 align="center">Cybersecurity Engineer | Ethical Hacker | Cloud Security Specialist</h3>
+<h3 align="center">Application Security Engineer | DevSecOps Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marianjohn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -16,7 +16,7 @@
 🔹 **Cybersecurity Professional** with expertise in **Application Security, Penetration Testing, and Cloud Security**.  
 🔹 Strong foundation in **Secure Coding, Incident Response, and Digital Forensics**.  
 🔹 Passionate about **hacking, cloud security, and building secure applications**.  
-🔹 **CTF Enthusiast** | **TryHackMe Top 1%** | **WiCyS & NCL Competitor**.  
+🔹 **CTF Enthusiast** | **TryHackMe Top 1%** | **NCL Competitor**.  
 
 🔍 **Currently Learning**: Blockchain & Web3 Security 🏗️  
 
