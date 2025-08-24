@@ -86,7 +86,7 @@
 ## 📬 Connect with Me  
 
 💼 **LinkedIn:** [Marian Joseph Jeffrey John](https://www.linkedin.com/in/marianjohn/)  
-🌐 **Portfolio:** [Visit Here](https://marianjosephjeffrey.wordpress.com/)  
+🌐 **Portfolio:** [Visit Here](https://marianjosephjeffrey.com/)  
 🛡 **TryHackMe:** [mjcube](https://tryhackme.com/p/mjcube)  
 📩 **Email:** mjcube1999@gmail.com  
 
