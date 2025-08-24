@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marianjohn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tryhackme.com/p/mjcube"><img src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://marianjosephjeffrey.wordpress.com/"><img src="https://img.shields.io/badge/Portfolio-Black?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://marianjosephjeffrey.com/"><img src="https://img.shields.io/badge/Portfolio-Black?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
