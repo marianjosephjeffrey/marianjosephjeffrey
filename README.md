@@ -172,9 +172,11 @@ motto:    "Stay curious. Security is a journey, not a destination."
 
 <div align="center">
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![eJPT](https://img.shields.io/badge/eJPTv2_Junior_PenTester-1679A7?style=for-the-badge&logo=hackthebox&logoColor=white)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/9373d203-93c8-462d-9bd7-94c8632d03b3/public_url)
+[![eJPT](https://img.shields.io/badge/eJPTv2_Junior_PenTester-1679A7?style=for-the-badge&logo=hackthebox&logoColor=white)](https://certs.ine.com/a04b0035-c4ff-4299-9718-7ae2553a99b4#acc.Fvsix9O4)
 ![Fortinet NSE1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+*↑ click a badge to verify the credential*
 
 </div>
 
