@@ -40,28 +40,24 @@ role:     Security Engineer @ Perfect Solutions Group
 focus:    [ AppSec, Cloud Security, DLP & Zero Trust, Threat Intel Automation ]
 building: security-mcp → CVE triage tools for AI agents 🤖
 education: M.Eng Cybersecurity, University of Maryland (GPA 3.8, Cum Laude)
-status:   Always hacking something...
-motto:    "Offense informs defense."
+status:   Learning in public, one lab at a time
+motto:    "Stay curious. Security is a journey, not a destination."
 ```
 
 ---
 
-## `> cat experience.log`
+## `> git log --graph --oneline career/`
 
 ```
-[ SECURITY ENGINEER ]  Perfect Solutions Group          2025 — present
-  ├─ Endpoint compliance: 72% ──────────────▶ 96%  (Intune baselines)
-  ├─ Zero Trust data governance w/ Microsoft Purview DLP
-  └─ SOC 2-aligned sensitivity labels & audit controls
-
-[ DEVSECOPS ENGINEER ]  Bright Mind Enrichment (BME)    2024 — 2025
-  ├─ GitGuardian across all repos → killed credential-leakage vector
-  └─ GCP admin: least-privilege IAM + API key rotation
-
-[ SECURITY ANALYST ]  Tata Consultancy Services         2021 — 2022
-  ├─ Defender policy tuning → false positives ▼ 90%
-  ├─ Phishing susceptibility ▼ 86%  (KnowBe4 campaigns)
-  └─ DLP alert triage · Mimecast email incident response
+* e96f4a1 ─ (HEAD → present) Security Engineer      · Perfect Solutions Group        ⟨2025 → now⟩
+│
+* 7c4d3b0 ─ DevSecOps Engineer     · Bright Mind Enrichment (BME)   ⟨2024 – 2025⟩
+│
+* 9e1f5a2 ─ M.Eng Cybersecurity    · University of Maryland 🎓      ⟨2022 – 2024⟩
+│
+* 4b8c0d7 ─ Security Analyst       · Tata Consultancy Services      ⟨2021 – 2022⟩
+│
+* 1a0e6f3 ─ (root) B.Tech ECE      · Amrita Vishwa Vidyapeetham 🎓  ⟨2016 – 2020⟩
 ```
 
 ---
