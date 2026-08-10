@@ -18,14 +18,14 @@ mjcube
 ```
 
 **Marian John**
-*Security Engineer · AppSec · DevSecOps · Ethical Hacker*
+*Security Engineer · Microsoft Security Stack · AppSec & DevSecOps · Ethical Hacker*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Breaking+things+to+build+them+stronger.;AppSec+%7C+Cloud+Security+%7C+Threat+Intel+Automation;Building+security+tools+for+AI+agents+%F0%9F%A4%96;TryHackMe+Top+1%25+%F0%9F%8F%86;CTF+Player+%7C+NCL+%7C+WiCyS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Breaking+things+to+build+them+stronger.;Endpoint+%7C+Cloud+%7C+AppSec+%7C+Threat+Intel+Automation;Building+security+tools+for+AI+agents+%F0%9F%A4%96;TryHackMe+Top+1%25+%F0%9F%8F%86;CTF+Player+%7C+NCL+%7C+WiCyS)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianjohn/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://marianjosephjeffrey.com/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mjcube)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.marianjohn99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjcube1999@gmail.com)
 
 </div>
 
@@ -36,10 +36,12 @@ mjcube
 ```yaml
 name:     Marian John
 alias:    mjcube
-role:     Security Engineer @ Perfect Solutions Group
-focus:    [ AppSec, Cloud Security, DLP & Zero Trust, Threat Intel Automation ]
-building: security-mcp → CVE triage tools for AI agents 🤖
-education: M.Eng Cybersecurity, University of Maryland (GPA 3.8, Cum Laude)
+role:     Security Engineer @ Perfect Solutions Group Inc
+focus:    [ Endpoint & Identity, Cloud Security, AppSec, Vulnerability Mgmt, Threat Intel Automation ]
+stack:    [ Sentinel, Defender XDR, Intune, Purview, Entra ID, Python ]
+building: security-mcp → CVE & SBOM triage tools for AI agents 🤖
+education: M.Eng Cybersecurity, University of Maryland (GPA 3.8/4.0)
+based:    Tiruchirappalli, India · open to EU relocation & remote
 status:   Learning in public, one lab at a time
 motto:    "Stay curious. Security is a journey, not a destination."
 ```
@@ -49,11 +51,13 @@ motto:    "Stay curious. Security is a journey, not a destination."
 ## `> git log --graph --oneline career/`
 
 ```
-* e96f4a1 ─ (HEAD → present) Security Engineer      · Perfect Solutions Group        ⟨2025 → now⟩
+* e96f4a1 ─ (HEAD → present) Security Engineer      · Perfect Solutions Group Inc    ⟨2025 → now⟩
 │
 * 7c4d3b0 ─ DevSecOps Engineer     · Bright Mind Enrichment (BME)   ⟨2024 – 2025⟩
 │
 * 9e1f5a2 ─ M.Eng Cybersecurity    · University of Maryland 🎓      ⟨2022 – 2024⟩
+│
+* 3d2b9c8 ─ Technical Assistant    · University of Maryland Libraries ⟨2023 – 2024⟩
 │
 * 4b8c0d7 ─ Security Analyst       · Tata Consultancy Services      ⟨2021 – 2022⟩
 │
@@ -71,7 +75,7 @@ motto:    "Stay curious. Security is a journey, not a destination."
 | **TryHackMe** | 🥇 Top **1%** globally | [mjcube](https://tryhackme.com/p/mjcube) |
 | **WiCyS 2023 CTF** | 🎯 Top **1.7%** — 40th / 2,300 | — |
 | **NCL Fall 2024** | 🚀 Top **12%** — 1,038 / 8,484 | — |
-| **NCL Spring 2025** | ⚡ Top **11%** — 937 / 8,542 | — |
+| **NCL Spring 2025** | ⚡ Top **11%** — 937 / 8,487 | — |
 
 </div>
 
@@ -96,7 +100,7 @@ motto:    "Stay curious. Security is a journey, not a destination."
   Web App Exploitation ████████░░░░░░░░░░░░░░  100/300  📚 LVL UP
 
 ════════════════════════════════════════════════════════════
-  FINAL RANK: #937 / 8,542  (~Top 11%)  🏁
+  FINAL RANK: #937 / 8,487  (~Top 11%)  🏁
 ```
 
 </div>
@@ -108,10 +112,11 @@ motto:    "Stay curious. Security is a journey, not a destination."
 ```
 ./skills/
 ├── 🛡️  defense/
-│   ├── microsoft_stack/ → [sentinel, defender, intune, purview]
+│   ├── microsoft_stack/ → [sentinel, defender_xdr, intune, purview, entra_id]
 │   ├── siem_log_analysis/ → [splunk, sigma, yara]
 │   ├── edr/ → [crowdstrike_falcon]
 │   ├── vuln_mgmt/ → [qualys, nessus]
+│   ├── dlp_email_security/ → [purview, mimecast]
 │   └── threat_intelligence.md
 ├── 🔴  offensive/
 │   ├── penetration_testing/ → [metasploit, burpsuite, sqlmap, nmap]
@@ -125,7 +130,10 @@ motto:    "Stay curious. Security is a journey, not a destination."
 │   └── azure_security.json
 ├── 🤖  ai_security/
 │   ├── mcp_server_development/
-│   └── cve_triage_automation/ → [nvd, epss, kev, attack]
+│   ├── cve_triage_automation/ → [nvd, epss, kev, exploit_db, attack]
+│   └── supply_chain_security/ → [cyclonedx, syft, google_osv]
+├── 📋  compliance/
+│   └── frameworks/ → [soc2, iso_27001, nist_csf, gdpr, owasp]
 └── 💻  dev/
     ├── python/ · powershell/ · c_cpp/
     ├── javascript/ · mysql/ · mongodb/
@@ -140,9 +148,9 @@ motto:    "Stay curious. Security is a journey, not a destination."
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 security-mcp ⭐](https://github.com/marianjosephjeffrey/security-mcp) | MCP server giving AI agents automated CVE triage — NIST NVD, EPSS, CISA KEV & MITRE ATT&CK fused into a rule-based risk engine | Python · FastMCP · asyncio · httpx |
-| [☁️ Cloud Security (AWS & Azure)](https://github.com/marianjosephjeffrey/Cloud-Security) | HIPAA-aligned hardened AWS architecture: VPC segmentation, GuardDuty, WAF, KMS | AWS · CloudFormation |
-| [🔓 Penetration Testing](https://github.com/marianjosephjeffrey/Penetration-Testing) | Full pentest methodology & reports | Metasploit · Burp |
+| [🤖 security-mcp ⭐](https://github.com/marianjosephjeffrey/security-mcp) | MCP server giving AI agents a 10-tool suite for CVE triage (NVD, EPSS, CISA KEV, Exploit-DB, ATT&CK) and SBOM supply chain triage via Google OSV, with rule-based verdicts and PDF reporting | Python · FastMCP · asyncio · httpx · CycloneDX · OSV |
+| [☁️ Cloud Security (AWS)](https://github.com/marianjosephjeffrey/Cloud-Security) | HIPAA-aligned hardened AWS architecture: VPC segmentation, MFA-enforced IAM, GuardDuty, WAF, KMS, delivered as CloudFormation IaC | AWS · CloudFormation |
+| [🔓 Penetration Testing](https://github.com/marianjosephjeffrey/Penetration-Testing) | Four-machine lab: initial access → privesc → SMB pivot → AD domain compromise, with full report | Metasploit · Burp · Impacket |
 | [🔴 IBM Clicked Incident Mgmt](https://github.com/marianjosephjeffrey/Incident-Management) | Enterprise incident response workflows | SIEM · SOAR |
 | [🔐 Secure Coding](https://github.com/marianjosephjeffrey/Secure-Coding) | OWASP-aligned secure dev practices | Python · JS |
 | [💻 C/Unix Binary Hacking](https://github.com/marianjosephjeffrey/Hacking-of-C-Programming-and-Unix-Binaries) | Buffer overflows, shellcode, exploits | C · GDB · pwntools |
@@ -158,12 +166,13 @@ motto:    "Stay curious. Security is a journey, not a destination."
 
 ```
 🎓 M.Eng Cybersecurity — University of Maryland, College Park  (2022–2024)
-   GPA 3.8/4.0 · Cum Laude
+   GPA 3.8/4.0
    → Secure Coding, Cloud Security, Pentesting, Binary Hacking,
      Embedded System Hacking, Network Security, Information Assurance
 
 🎓 B.Tech ECE — Amrita Vishwa Vidyapeetham, Coimbatore  (2016–2020)
-   → Published thesis @ ICCSP 2020
+   → Published paper @ ICCSP 2020 — PAPR reduction across FBMC / OFDM / SC-FDMA
+     https://ieeexplore.ieee.org/abstract/document/9182172
 ```
 
 ---
@@ -179,6 +188,18 @@ motto:    "Stay curious. Security is a journey, not a destination."
 *↑ click a badge to verify the credential*
 
 </div>
+
+---
+
+## `> cat languages.txt`
+
+```
+English  ████████████████████  fluent
+Tamil    ████████████████████  native
+Telugu   ████████████████████  fluent
+Hindi    ████████████████████  fluent
+Finnish  ████░░░░░░░░░░░░░░░░  beginner · studying
+```
 
 ---
 
